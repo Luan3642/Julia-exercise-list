@@ -2,3 +2,5 @@
 
 
 sucessor = x -> x + 1
+
+sucessor(7)
